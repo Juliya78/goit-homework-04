@@ -211,7 +211,8 @@ margin-right: 30px;
 .peculiarities-item:last-child {
 margin-right: 0;
 }
-.peculiarities-icon {
+.peculiarities-box {
+display:block;
 width: 270px;
 height: 120px;
 padding-top: 25px;
